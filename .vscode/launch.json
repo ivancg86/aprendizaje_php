@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "http://localhost:80/php_basico/sesiones.php",
+            "url": "http://localhost:80/php_basico/cookies.php",
             "webRoot": "${workspaceFolder}"
         }
     ]
